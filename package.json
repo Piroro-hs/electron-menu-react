@@ -1,7 +1,7 @@
 {
   "name": "electron-menu-react",
   "description": "Electron's menu in React way.",
-  "version": "0.0.1",
+  "version": "0.1.0",
   "author": "Piroro-hs",
   "bugs": {
     "url": "https://github.com/Piroro-hs/electron-menu-react/issues"
