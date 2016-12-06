@@ -1,0 +1,13 @@
+{
+  "presets": [
+    ["env", {
+      "targets": {
+        "node": 6.5
+      },
+      "loose": true,
+      "modules": "commonjs"
+    }],
+    "stage-3",
+    "react"
+  ]
+}
